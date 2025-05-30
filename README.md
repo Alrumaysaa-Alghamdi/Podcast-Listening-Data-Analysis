@@ -51,4 +51,4 @@ pip install pandas matplotlib
 
 ---
 
-*README مبسط ومرتب يلخص الخطوات المنفذة في المشروع.*
+*by: Alrumaysaa Alghamdi*
